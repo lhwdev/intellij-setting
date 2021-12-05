@@ -1,0 +1,11 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="KDoc">
+      <action id="EditorLineStart" />
+      <action id="EditorEnter" />
+      <action id="EditorUp" />
+      <typing text-keycode="47:0;56:1;56:1">/**</typing>
+      <action id="EditorEnter" />
+    </macro>
+  </component>
+</application>

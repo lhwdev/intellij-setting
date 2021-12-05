@@ -1,0 +1,8 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Android facet-fix notifications" displayType="NONE" shouldLog="false" />
+    <notification groupId="Build sync orphan modules" displayType="NONE" shouldLog="false" />
+    <notification groupId="Compose Project Notification" />
+    <notification groupId="Gradle Notification Group" displayType="NONE" shouldLog="false" />
+  </component>
+</application>

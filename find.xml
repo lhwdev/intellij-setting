@@ -1,0 +1,14 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Module 'Model.calculation.commonMain'" />
+    <option name="defaultScopeName" value="Module 'Model.calculation.commonMain'" />
+    <option name="SEARCH_SCOPE" value="Module 'Model.calculation.commonMain'" />
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.jsp</mask>
+    <mask>*.properties</mask>
+    <mask>*.java</mask>
+    <mask>*.kt</mask>
+  </component>
+</application>
