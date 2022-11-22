@@ -1,8 +1,11 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="pristineConfig" value="false" />
+    <option name="settingsSelectedTab" value="6" />
     <option name="accentColor" value="5294e2" />
     <option name="selectedTheme" value="ARC_DARK" />
     <option name="userId" value="7784fdd7:17e9bdeb196:-8000" />
     <option name="version" value="6.16.2" />
+    <option name="showWhatsNew" value="false" />
   </component>
 </application>
