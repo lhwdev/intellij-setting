@@ -1,7 +1,7 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="accentColor" value="416a9b" />
-    <option name="selectedTheme" value="NATIVE" />
+    <option name="accentColor" value="5294e2" />
+    <option name="selectedTheme" value="ARC_DARK" />
     <option name="userId" value="7784fdd7:17e9bdeb196:-8000" />
     <option name="version" value="6.16.2" />
   </component>
